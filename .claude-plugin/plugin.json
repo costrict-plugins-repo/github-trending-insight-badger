@@ -1,0 +1,25 @@
+{
+  "name": "insight-badger",
+  "version": "0.2.0",
+  "description": "Survey-specialised data insights. Drop a survey CSV (any platform) and get plain-language analysis of Likert items, NPS/CSAT scores, drivers, segments, demographics, and open-text themes — delivered as polished HTML reports.",
+  "author": {
+    "name": "Umut Ozturk"
+  },
+  "keywords": [
+    "survey",
+    "surveys",
+    "likert",
+    "nps",
+    "csat",
+    "questionnaire",
+    "voice-of-customer",
+    "voc",
+    "market-research",
+    "open-text",
+    "segmentation",
+    "drivers",
+    "csv",
+    "insights",
+    "dashboard"
+  ]
+}
