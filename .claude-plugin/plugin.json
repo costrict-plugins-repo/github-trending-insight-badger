@@ -1,0 +1,31 @@
+{
+  "name": "insight-badger",
+  "version": "0.2.5",
+  "description": "Survey-specialised data insights. Drop a survey export (Qualtrics, SurveyMonkey, Google Forms, Typeform, Microsoft Forms, SPSS or CSV) and get plain-language analysis of ratings, NPS/CSAT, drivers, group gaps, customer mindsets and open-text themes, delivered as a storytelling HTML report.",
+  "author": {
+    "name": "Umut Ozturk"
+  },
+  "homepage": "https://github.com/ozturkumut/insightbadger-plugin",
+  "repository": "https://github.com/ozturkumut/insightbadger-plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "survey",
+    "surveys",
+    "likert",
+    "nps",
+    "csat",
+    "questionnaire",
+    "voice-of-customer",
+    "voc",
+    "market-research",
+    "open-text",
+    "segmentation",
+    "drivers",
+    "qualtrics",
+    "surveymonkey",
+    "csv",
+    "insights",
+    "report",
+    "pdf"
+  ]
+}
